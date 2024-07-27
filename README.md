@@ -16,7 +16,6 @@ OpenCV (for image and video processing): pip install opencv-python
 
 Ultralytics (for YOLO): pip install ultralytics
 
-Create a Python file (e.g., main.py) for your project.
 
 Loading the YOLO Model:
 Initialize the YOLO object detector with pretrained weights (e.g., yolov8s.pt).
